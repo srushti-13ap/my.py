@@ -1,10 +1,2 @@
-pi = 3.14
-r = float(input("enter the radius"))
-a = pi*r*r
-print(a)
 
-
-
-enter the radius4.5
-63.585
 
